@@ -1,4 +1,4 @@
-Blind-Walk-Stick Project
+ # Blind-Walk-Stick Project
 
 
 This project aims to create a simple and affordable electronic aid for visually impaired individuals. The Blind-Walk-Stick is equipped with an ultrasonic sensor to detect obstacles in the environment and provide feedback to the user through vibrations or sounds, allowing them to navigate safely.
